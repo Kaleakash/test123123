@@ -1,2 +1,4 @@
 this is a text file 
 added new contents 
+
+added new contents in a.txt file 
